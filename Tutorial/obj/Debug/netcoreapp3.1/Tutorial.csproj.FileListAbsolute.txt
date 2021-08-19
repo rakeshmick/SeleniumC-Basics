@@ -1,7 +1,3 @@
-C:\Users\Rakesh P\source\repos\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Rakesh P\source\repos\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.AssemblyInfoInputs.cache
-C:\Users\Rakesh P\source\repos\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.AssemblyInfo.cs
-C:\Users\Rakesh P\source\repos\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.csproj.CoreCompileInputs.cache
 C:\Users\Rakesh P\source\repos\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\testhost.dll
 C:\Users\Rakesh P\source\repos\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\testhost.exe
 C:\Users\Rakesh P\source\repos\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
@@ -94,7 +90,10 @@ C:\Users\Rakesh P\source\repos\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\zh-Hans
 C:\Users\Rakesh P\source\repos\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\Rakesh P\source\repos\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\Rakesh P\source\repos\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Rakesh P\source\repos\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.csproj.AssemblyReference.cache
+C:\Users\Rakesh P\source\repos\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rakesh P\source\repos\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.AssemblyInfoInputs.cache
+C:\Users\Rakesh P\source\repos\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.AssemblyInfo.cs
+C:\Users\Rakesh P\source\repos\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.csproj.CoreCompileInputs.cache
 C:\Users\Rakesh P\source\repos\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.csproj.CopyComplete
 C:\Users\Rakesh P\source\repos\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.dll
 C:\Users\Rakesh P\source\repos\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.pdb
